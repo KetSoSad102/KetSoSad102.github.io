@@ -1,5 +1,5 @@
 ---
-title: HolmesCTF 2025
+title: Holmes CTF 2025
 published: 2025-03-25
 tags: [Forensics]
 category: Writeup CTF Challenge
