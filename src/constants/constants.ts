@@ -1,7 +1,7 @@
 export const PAGE_SIZE = 8;
 
-export const LIGHT_MODE = "light",
-	DARK_MODE = "dark",
+export const LIGHT_MODE = "dark",
+	DARK_MODE = "light",
 	AUTO_MODE = "auto";
 export const DEFAULT_THEME = AUTO_MODE;
 
