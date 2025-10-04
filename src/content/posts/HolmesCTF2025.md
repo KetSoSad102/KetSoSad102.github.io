@@ -1,6 +1,6 @@
 ---
 title: Holmes CTF 2025
-published: 2025-03-25
+published: 2025-09-30
 tags: [Forensics]
 category: Writeup CTF Challenge
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: HCMUS CTF Qual 2025
-published: 2025-03-25
+published: 2025-07-30
 tags: [Forensics]
 category: Writeup CTF Challenge
 draft: false
