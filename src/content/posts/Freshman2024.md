@@ -100,6 +100,7 @@ for key2 in range(256):
 # Cloakkkkkk
 
 >The secret is concealed within plain text using invisible characters and secured with a password. However, all that's visible is the WannaW1n Club logo. Can you uncover the hidden plain text and reveal the secret?
+>
 >Author: Pirin
 
 Ở challenge này, ta được cho 1 file ảnh bmp. Giờ ta sẽ đi vào phân tích nó.
