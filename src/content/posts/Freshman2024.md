@@ -8,7 +8,7 @@ draft: false
 
 # PS5
 >Are you familiar with an EVTX file and what it is used for? I have created a custom EVTX file to demonstrate what it can display.
-> Author: K9t
+Author: K9t
 
 Ở challenge này, ta được cho 1 file log evtx. Giờ ta sẽ mở nó lên để xem bên trong nó có thể khai thác được gì.
 ![image](https://hackmd.io/_uploads/BkWeALOtJx.png)
