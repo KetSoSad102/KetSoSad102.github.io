@@ -1,6 +1,6 @@
 ---
 title: Imaginary CTF 2025
-published: 2025-08-15
+published: 2025-10-02
 tags: [Forensics]
 category: Writeup CTF Challenge
 draft: false
