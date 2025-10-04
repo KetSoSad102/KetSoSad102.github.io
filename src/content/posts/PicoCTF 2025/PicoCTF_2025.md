@@ -2,7 +2,6 @@
 title: Pico CTF 2025
 published: 2025-03-25
 tags: [Forensics]
-image: "./pico.png"
 category: Writeup CTF Challenge
 draft: false
 ---
