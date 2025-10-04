@@ -1,3 +1,11 @@
+---
+title: Freshman 2024
+published: 2024-10-30
+tags: [Forensics]
+category: Writeup CTF Challenge
+draft: false
+---
+
 # PS5
 >Are you familiar with an EVTX file and what it is used for? I have created a custom EVTX file to demonstrate what it can display.
 > Author: K9t
