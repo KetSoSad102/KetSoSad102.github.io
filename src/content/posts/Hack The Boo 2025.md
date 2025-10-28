@@ -238,6 +238,7 @@ We can see they are execute the python code in this endpoint.
 
 ![image](https://hackmd.io/_uploads/B1fm6maCeg.png)
 We can see the ip which send the payload to execute.
+
 **Answer: 188.114.96.12**
 
 ### The attacker used a persistence technique, what is the port used by the reverse shell? (e.g. 4444)
