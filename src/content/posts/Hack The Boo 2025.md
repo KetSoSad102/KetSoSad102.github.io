@@ -25,7 +25,7 @@ Open the pcap file to analysis(Use tls key to decrypt tls). Overview of this, th
 After this:
 ![upload_c59556abfe8e731f258a5a37227d3941](https://hackmd.io/_uploads/BkGglmT0xe.png)
 
-I things maybe attacker was successed bruteforce to remote to victim desktop and try to mark data for victim, check it.
+By the strange ups and downs of the graph, I think maybe attacker was successed bruteforce to remote to victim desktop and try to mark data for victim after that,let's check it.
 ![image](https://hackmd.io/_uploads/BJHOxQTAeg.png)
 **negResult: accept-completed**
 
