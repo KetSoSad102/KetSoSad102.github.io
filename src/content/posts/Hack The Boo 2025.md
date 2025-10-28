@@ -1,6 +1,9 @@
 ---
 title: Hack The Boo 2025
-
+published: 2025-10-28
+tags: [Forensics]
+category: Writeup CTF Challenge
+draft: false
 ---
 
 # Hack The Boo 2025 - Competition
